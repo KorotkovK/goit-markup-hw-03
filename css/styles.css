@@ -340,6 +340,7 @@ ul {
     margin-right: 40px;
     gap: 24px;
     margin-bottom: 72px;
+    justify-content: center;
 }
 
 .nav-button {
