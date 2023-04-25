@@ -154,12 +154,13 @@ img {
     cursor: pointer;
     background-color: #4D5AE5;
     display: block;
-    width: 169px;
+    min-width: 169px;
     height: 56px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
     margin: 0 auto;
+    padding: 16px 32px;
 }
 
 .hero-button:hover,
@@ -393,6 +394,7 @@ img {
     border: 1px solid #e7e9fc;
     border-top: none;
 }
+
 .portfolio-section {
     padding: 96px 0 120px;
 }
