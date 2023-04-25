@@ -69,6 +69,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
 }
 
 .header-list .list {
@@ -105,7 +106,6 @@ img {
 .header-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .contacts-item:hover,
@@ -122,6 +122,7 @@ img {
 /* Hero */
 .first-section {
     background: #2E2F42;
+    padding: 188px 0;
 }
 
 .text-hero {
@@ -132,7 +133,9 @@ img {
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
-    line-height: 1.07
+    line-height: 1.07;
+    max-width: 496px;
+
 }
 
 .hero-button {
@@ -144,6 +147,12 @@ img {
     color: #ffffff;
     cursor: pointer;
     background-color: #4D5AE5;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 .hero-button:hover,
