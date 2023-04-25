@@ -388,3 +388,6 @@ img {
     border: 1px solid #e7e9fc;
     border-top: none;
 }
+.portfolio-section {
+    padding: 96px 0 120px;
+}
