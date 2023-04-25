@@ -25,6 +25,7 @@ body {
 img {
     display: block;
 }
+
 ul {
     padding-left: 0%;
 }
@@ -113,6 +114,7 @@ ul {
     display: flex;
     gap: 40px;
 }
+
 
 .contacts-item:hover,
 .contacts-item:focus {
@@ -248,8 +250,7 @@ ul {
 }
 
 .list {
-    display: flex;
-    gap: 24px;
+    list-style: none;
 }
 
 .first-image-item {
