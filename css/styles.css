@@ -341,6 +341,7 @@ ul {
     gap: 24px;
     margin-bottom: 72px;
     justify-content: center;
+    list-style: none;
 }
 
 .nav-button {
