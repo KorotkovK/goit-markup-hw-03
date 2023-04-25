@@ -176,6 +176,19 @@ img {
 }
 
 /* Section 2 */
+.second-section-list {
+    display: flex;
+    gap: 24px;
+}
+
+.second-container {
+    padding: 120px 0;
+
+}
+.item-strategy {
+    width: calc((100% - 72px) / 4);
+}
+
 .strategy-title {
     font-family: 'Roboto';
     font-style: normal;
@@ -187,6 +200,7 @@ img {
     flex: none;
     order: 0;
     flex-grow: 0;
+    margin-bottom: 8px;
 }
 
 .item-punctuality {
