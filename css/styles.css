@@ -84,6 +84,7 @@ img {
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #434455;
+    margin-left: auto;
 }
 
 .contacts-list {
