@@ -254,6 +254,12 @@ ul {
     width: calc((100% - 48px) / 3);
 }
 
+.third-section-list {
+    display: flex;
+    gap: 24px;
+
+}
+
 /* Section 4 */
 .team-subject {
     font-family: 'Roboto';
@@ -302,6 +308,11 @@ ul {
     padding: 120px 0;
 }
 
+.fourth-section-list {
+    display: flex;
+    gap: 24px;
+}
+
 /* Footer */
 .footer {
     background: #2E2F42;
@@ -324,10 +335,11 @@ ul {
 }
 
 /* Portfolio */
-.list {
-    list-style: none;
-    
-
+.button-list {
+    display: flex;
+    margin-right: 40px;
+    gap: 24px;
+    margin-bottom: 72px;
 }
 
 .nav-button {
