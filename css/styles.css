@@ -185,6 +185,7 @@ img {
     padding: 120px 0;
 
 }
+
 .item-strategy {
     width: calc((100% - 72px) / 4);
 }
@@ -201,45 +202,6 @@ img {
     order: 0;
     flex-grow: 0;
     margin-bottom: 8px;
-}
-
-.item-punctuality {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-
-.item-diligence {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-
-.item-technologies {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
 }
 
 .strategy-text {
