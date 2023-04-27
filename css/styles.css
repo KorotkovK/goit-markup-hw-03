@@ -28,11 +28,14 @@ img {
 
 ul {
     padding-left: 0%;
+
 }
 
 /* Header */
 .header-container {
     display: flex;
+
+  
 }
 
 .container {
@@ -86,6 +89,7 @@ ul {
     line-height: 1.5;
     color: #434455;
     margin-left: auto;
+
 }
 
 .contacts-list {
@@ -122,6 +126,13 @@ ul {
     background-color: #FFFFFF;
     border-bottom: 1px solid #e7e9fc;
 
+}
+
+.contacts-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
 }
 
 /* Hero */
@@ -316,7 +327,7 @@ ul {
 /* Footer */
 .footer {
     background: #2E2F42;
-    padding: 100px 0;
+     padding: 100px 0;
 }
 
 .footer-text {
@@ -328,11 +339,13 @@ ul {
     letter-spacing: 0.02em;
     color: #F4F4FD;
     max-width: 264px;
+
 }
 
 .web-logo-footer {
     color: #f4f4fd;
 }
+
 
 /* Portfolio */
 .button-list {
