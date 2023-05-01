@@ -28,14 +28,22 @@ img {
 
 ul {
     padding-left: 0%;
+    margin: 0;
 
+}
+
+p {
+    margin: 0;
+}
+h2 {
+    margin: 0;
 }
 
 /* Header */
 .header-container {
     display: flex;
 
-  
+
 }
 
 .container {
@@ -61,7 +69,7 @@ ul {
     margin-right: 76px;
     padding: 24px 0;
     display: inline-block;
-    margin-bottom: 16px;
+
 }
 
 .web-logo {
@@ -95,6 +103,7 @@ ul {
 .contacts-list {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .header-item-link:hover {
@@ -224,6 +233,7 @@ ul {
     order: 0;
     flex-grow: 0;
     margin-bottom: 8px;
+    margin-top: 0;
 }
 
 .strategy-text {
@@ -237,6 +247,7 @@ ul {
     flex: none;
     order: 1;
     flex-grow: 0;
+    margin-bottom: 0;
 }
 
 /* Section 3 */
@@ -327,7 +338,7 @@ ul {
 /* Footer */
 .footer {
     background: #2E2F42;
-     padding: 100px 0;
+    padding: 100px 0;
 }
 
 .footer-text {
